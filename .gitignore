@@ -4,3 +4,6 @@ Gemfile.lock
 pkg/*
 lib/demo.rb
 .rvmrc
+*.swp
+*.un~
+.gitignore
